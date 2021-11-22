@@ -1,0 +1,19 @@
+p {
+    font-size: 30px;
+    color: rgb(78, 40, 40)
+}
+
+h1 {
+    font-size: 50px;
+    color: rgb(105, 70, 70);
+}
+
+img {
+    height: 10vh;
+}
+
+body {
+    text-align: center;
+    background-color: rgb(219, 196, 152)
+}   
+
